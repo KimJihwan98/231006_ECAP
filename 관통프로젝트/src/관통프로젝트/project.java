@@ -155,9 +155,9 @@ public class project {
 	public static void findChampion(Team[] teams) {
 		for (int i = 0; i < 9; i++) {
 			for (int j = i + 1; j < 10; j++) {
-				double a = Math.random() * teams[i].winning_rate[j];
-				double b = Math.random() * teams[j].winning_rate[i];
-
+				double a = Math.random()*100 + teams[i].winning_rate[j];
+				double b = Math.random()*100 + teams[j].winning_rate[i];
+//				System.out.println(teams[i].team_name + " : " + (int) a + "    "+ teams[j].team_name + " : " + (int) b);
 				if (a > b)
 					teams[i].point++;
 				else if (b > a)
@@ -177,7 +177,7 @@ public class project {
 				can_winner.add(teams[i].team_name);
 			}
 		}
-		System.out.println("Champion : " + can_winner + " Point : " + max);
-
+		System.out.println("Champion : " + can_winner + ", Point : " + max);
+		System.out.println();
 	}
 }
