@@ -62,4 +62,4 @@ Algo-04. 포메이션 배치 알고리즘
 -	상세
 교수님이 제공해주신 Open Soure를 활용하여 프론트 상에 배치된 11개의 포메이션 공석들 중 선수를 배치할 수 있도록 한다.
 
-Copyright By JaeHwan Kim, EunSoo Park
+Copyright By JiHwan Kim, EunSoo Park
