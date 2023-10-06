@@ -2,7 +2,7 @@
 박은수 김지환 프로젝트
 <ECAP -- EPL Champion Assumption Project>
 
- ![image](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/0c34b63a-36f1-4d45-91a3-6dae5a51870d)
+![EPL](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/f6622a05-6433-4e58-8425-e851fd794d36)
 
 설계한 기능 목록
 1.	프리미어리그 상위 10개팀의 상대 승률을 조사해서, 리그전을 통해 승점 계산 후 챔피언을 예측
@@ -12,11 +12,11 @@
 
 참고한 상대전적 사이트
 
-![image](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/5cd13ec1-26e6-4727-84b6-b40d800afe89)
+![제목 없음](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/37679073-9196-43a4-9f1a-2152710d4c99)
 
 직접 계산한 EPL팀들의 상대전적 알고리즘.
 
-![image](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/33ba779a-87fa-405f-94be-35963086cff3)
+![EPL_Background_Spotlight_Logos](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/27740b23-4af8-4fb6-a23d-691cede03506)
 <br/>
 맨시티 = { -1, 44, 35,50 ,48 ,51 ,39 , 65 , 51 , 53 }; <br/>
 맨유 = { 56, -1, 53 , 63 , 59 ,67 , 53 ,85 ,59 , 65 }; <br/>
@@ -31,11 +31,11 @@ QPR = {35 , 15 ,19 , 39 ,41 , 42 , 39 ,-1 ,46 ,45 }; <br/>
 
 정확한 커리어 및 계산을 통해 계산한 각 팀의 대표선수들과 선수의 능력치
 
- ![image](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/47c468a1-4c69-42e1-970d-e53985f50497)
+![1234124](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/a599b8e6-54ec-4bb8-8668-2018bb9a875c)
 
 알고리즘 적용 기획서
 
-![image](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/574c5fd1-26ff-4e87-9068-84d1b05931f4)
+![123](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/3910432c-8e62-44a8-87f0-29f26b151949)
 
 Algo-01 . 우승 후보 팀, 리그전을 통해 선별
 -	요약
