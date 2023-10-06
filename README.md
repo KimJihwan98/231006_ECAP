@@ -2,7 +2,7 @@
 박은수 김지환 프로젝트
 <ECAP -- EPL Champion Assumption Project>
 
- 
+ ![image](https://github.com/KimJihwan98/231006_ECAP/assets/81845773/0c34b63a-36f1-4d45-91a3-6dae5a51870d)
 
 설계한 기능 목록
 1.	프리미어리그 상위 10개팀의 상대 승률을 조사해서, 리그전을 통해 승점 계산 후 챔피언을 예측
